@@ -1,4 +1,4 @@
-###PayCore Graduation Project
+### PayCore Graduation Project
 
 In this project, I tried to design a system which looks at Customer's money and credit point and with these data, it decides how much money the customer can get. The rules are given here:
 *If the credit score is below 500, the user is rejected. (Credit result: Red)
